@@ -1,0 +1,54 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+.navbar{
+    background-color: blueviolet !important;
+}
+.navbar-brand{
+    color: #fff !important;
+    font-weight: bold;
+}
+.nav-link{
+    color: #fff !important;
+}
+.footer{
+    background-color: blueviolet !important;
+    text-align: center;
+    padding: 20px;
+    color:white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+}
+.content{
+    padding-top: 80px;
+}
+
+button{
+    background-color: blueviolet;
+    box-shadow: none;
+    border: none;
+    color:white;
+    padding: 5px;
+}
+button:hover{
+    background-color:orange;
+    font-weight: bold!important;
+}
+.spinner-border{
+    height: 100px;
+    width:100px;
+}
+a{
+    text-decoration: none;
+}
+input , select{
+    height: 35px !important;
+}
+
+/* 3:24 */
